@@ -8,3 +8,5 @@
 26/04/2026
 
 - Wrote project management document.
+- Published way of working document in portfolio.
+- Finished system admin user stories
