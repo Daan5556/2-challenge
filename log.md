@@ -9,4 +9,8 @@
 
 - Wrote project management document.
 - Published way of working document in portfolio.
-- Finished system admin user stories
+- Finished system admin user stories.
+
+02/05/2026
+
+- Feedback on network analysis.
