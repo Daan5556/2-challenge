@@ -14,3 +14,14 @@
 02/05/2026
 
 - Feedback on network analysis.
+
+26/05/2026
+
+- Lennart requirements.
+  - Acceptance requirements.
+  - Opdeling van requirements.
+  - Up sellen.
+  - Weerstand tijdens boeken moet laag zijn.
+  - Early feedback requests
+  - No requirements for ht system.
+  - Portfolio feedback request.
